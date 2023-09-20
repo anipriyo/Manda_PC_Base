@@ -1,0 +1,25 @@
+*01. Write a C program to print all natural numbers from 1 to n. - using while loop & for loop.
+*02. Write a C program to print all alphabets from a to z.
+*03. Write a C program to print all even numbers between 1 to 100.
+*04. Write a C program to find sum of all odd numbers between 1 to n.
+*05. Write a C program to print multiplication table of any number.
+*06. Write a C program to count number of digits in a number.
+*07. Write a C program to find first and last digit of a number.
+08. Write a C program to swap first and last digits of a number.
+09. Write a C program to enter a number and print its reverse.
+10. Write a C program to check whether a number is palindrome or not.
+11. Write a C program to find frequency of each digit in a given integer.
+12. Write a C program to enter a number and print it in words.
+13. Write a C program to print all ASCII character with their values.
+14. Write a C program to find power of a number using for loop.
+15. Write a C program to find all factors of a number.
+16. Write a C program to calculate factorial of a number.
+*17. Write a C program to find HCF (GCD) of two numbers.
+*18. Write a C program to find LCM of two numbers.
+*19. Write a C program to check whether a number is Prime number or not.
+*20. Write a C program to print all Prime numbers between 1 to n.
+21. Write a C program to find all prime factors of a number.
+22. Write a C program to check whether a number is Armstrong number or not.
+23. Write a C program to print all Armstrong numbers between 1 to n.
+24. Write a C program to print Fibonacci series up to n terms.
+***25. Star pattern programs - Write a C program to print the given star patterns.

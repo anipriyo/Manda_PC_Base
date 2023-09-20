@@ -1,0 +1,53 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>WATER POLLUTION</title>
+</head>
+
+<body>
+
+<p align="center">&nbsp;</p>
+<p align="center"><font size="7" color="#FF0000">WATER POLLUTION</font></p>
+<p style="color: rgb(0, 0, 0); font-family: GeographEditWeb, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0.8px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 20px 0px; background-color: rgb(255, 255, 255)">
+<font size="5">Some polluted water looks muddy, smells bad, and has garbage 
+floating in it. Some polluted water looks clean, but is filled with harmful 
+chemicals you can’t see or smell.<br>
+<br>
+Polluted water is unsafe for drinking and swimming. Some people who drink 
+polluted water are exposed to hazardous chemicals that may make them sick years 
+later. Others consume&nbsp;<a class="tipHelp" style="color: black !important; cursor: pointer; text-decoration: none; border-bottom: 2px dotted rgb(51, 51, 51); background:">bacteria</a>&nbsp;and 
+other tiny&nbsp;<a class="tipHelp" style="color: black !important; cursor: pointer; text-decoration: none; border-bottom: 2px dotted rgb(51, 51, 51); background:">aquatic</a>&nbsp;organisms 
+that cause disease. The&nbsp;<a class="tipHelp" style="color: black !important; cursor: pointer; text-decoration: none; border-bottom: 2px dotted rgb(51, 51, 51); background:">United 
+Nations</a>&nbsp;estimates that 4,000 children die every day from drinking dirty 
+water.<br>
+<br>
+Sometimes, polluted water harms people indirectly. They get sick because the 
+fish that live in polluted water are unsafe to eat. They have too many 
+pollutants in their flesh.<br>
+<br>
+There are some natural sources of water pollution. Oil and natural gas, for 
+example, can leak into oceans and lakes from natural underground sources. These 
+sites are called&nbsp;<a class="tipHelp" style="color: black !important; cursor: pointer; text-decoration: none; border-bottom: 2px dotted rgb(51, 51, 51); background:">petroleum 
+seep</a>s. The world’s largest petroleum seep is the Coal Oil Point Seep, off 
+the coast of the U.S. state of California. The Coal Oil Point Seep releases so 
+much oil that&nbsp;<a class="tipHelp" style="color: black !important; cursor: pointer; text-decoration: none; border-bottom: 2px dotted rgb(51, 51, 51); background:">tar 
+ball</a>s wash up on nearby beaches. Tar balls are small, sticky pieces of 
+pollution that eventually&nbsp;<a class="tipHelp" style="color: black !important; cursor: pointer; text-decoration: none; border-bottom: 2px dotted rgb(51, 51, 51); background:">decompose</a>&nbsp;in 
+the ocean.</font></p>
+<p style="color: rgb(0, 0, 0); font-family: GeographEditWeb, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0.8px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 20px 0px; background-color: rgb(255, 255, 255)" align="right">
+<img src="https://www.fairplanet.org/wp-content/uploads/2019/07/ocean-pollution-plastic.1567434951.jpg" alt="The top 10 Items that are polluting our oceans | FairPlanet"></p>
+<p style="color: rgb(0, 0, 0); font-family: GeographEditWeb, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0.8px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 20px 0px; background-color: rgb(255, 255, 255)">
+<font size="5">&nbsp; </font></p>
+<p style="color: rgb(0, 0, 0); font-family: GeographEditWeb, Helvetica, Arial, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0.8px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; margin: 20px 0px; background-color: rgb(255, 255, 255)">
+<font size="5"><br>
+&nbsp;</font></p>
+<br class="Apple-interchange-newline">
+&nbsp;<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+</body>
+
+</html>
